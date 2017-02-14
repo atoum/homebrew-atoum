@@ -1,5 +1,4 @@
 class AbstractAtoum < Formula
-  init
   desc "The modern, simple and intuitive PHP unit testing framework."
   homepage "http://atoum.org/"
 
