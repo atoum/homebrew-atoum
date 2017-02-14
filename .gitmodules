@@ -1,0 +1,3 @@
+[submodule "homebrew-php"]
+	path = homebrew-php
+	url = https://github.com/Homebrew/homebrew-php.git
