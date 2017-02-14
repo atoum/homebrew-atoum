@@ -15,7 +15,7 @@ class AbstractAtoum < Formula
   def wrapper
     <<-EOS.undent
       #!/usr/bin/env bash
-      /usr/bin/env php -d allow_url_fopen=On -d detect_unicode=Off #{libexec}/#{@phar} "$@"
+      /usr/bin/env php -d allow_url_fopen=On -d detect_unicode=Off #{libexec}/#{phar} "$@"
     EOS
   end
 
