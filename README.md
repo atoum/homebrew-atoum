@@ -2,8 +2,6 @@
 
 atoum macOS formulae for the Homebrew package manager
 
-![atoum](http://downloads.atoum.org/images/logo.png)
-
 ## Requirements
 
 The Homebrew `php` tap is required : `brew tap homebrew/homebrew-php`
@@ -59,3 +57,5 @@ atoum version 2.9.0 by Frédéric Hardy (phar:///usr/local/Cellar/atoum/2.9.0/li
 ## Licence
 
 homebrew-atoum is released under the BSD-3-Clause. See the bundled LICENSE file for detail.
+
+http://atoum.org/images/logo/atoum.png
