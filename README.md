@@ -18,6 +18,7 @@ Once done, you will have acces to several formulae:
 
 | Formula     | atoum version |
 |-------------|---------------|
+| `atoum@3.0` | `dev-master`  |
 | `atoum`     | `2.9.0`       |
 | `atoum@2.8` | `2.8.2`       |
 
