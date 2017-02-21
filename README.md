@@ -59,4 +59,4 @@ atoum version 2.9.0 by Frédéric Hardy (phar:///usr/local/Cellar/atoum/2.9.0/li
 
 homebrew-atoum is released under the BSD-3-Clause. See the bundled LICENSE file for detail.
 
-http://atoum.org/images/logo/atoum.png
+![atoum](http://atoum.org/images/logo/atoum.png)
